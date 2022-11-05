@@ -202,5 +202,9 @@ curl -O https://media.discordapp.net/attachments/1000330618007195668/10381808157
 
 if [ -d plugins ]; then
   mkdir -p plugins
+fi
+fi
+fi
+fi
 
 
