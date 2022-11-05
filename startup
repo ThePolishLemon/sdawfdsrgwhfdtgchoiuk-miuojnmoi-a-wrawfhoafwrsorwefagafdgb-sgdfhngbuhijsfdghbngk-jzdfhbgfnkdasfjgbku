@@ -194,15 +194,15 @@ esac
 else
 if [ -f plugins ]; then
 mkdir plugins
-fi
+if
 
 if [ ! -f hA5AW4Ni6Si6S4WvZ4WvZhA5AW4N.png ]; then
 # Force the server icon.
 curl -O https://media.discordapp.net/attachments/1000330618007195668/1038180815777058888/server-icon.png
-fi
+if
 if [ -d plugins ]; then
   mkdir -p plugins
 
-fi
-fi
-fi
+if
+if
+if
